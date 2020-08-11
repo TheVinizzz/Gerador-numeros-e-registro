@@ -1,0 +1,38 @@
+body
+{
+    font: normal 15pt Arial;
+    background-color:#5b1f7b;
+    
+}
+footer
+{
+    text-align: center;
+    font-style: italic;
+}
+footer p
+{
+color: #ffffff;
+}
+section
+{
+text-align: center;
+background: white;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px #2e2a30;
+}
+header
+{
+text-align: center;
+color: #ffffff;
+}
+#barrinha
+{
+    width: 200px;
+}
+#final
+{
+    margin-top: 15px;
+}
